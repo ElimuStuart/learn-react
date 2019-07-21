@@ -1,1 +1,5 @@
-ReactDOM.render(<p>Hello, react!</p>, document.querySelector("#root"))
+ReactDOM.render(<ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+</ul>, document.querySelector("#root"))
