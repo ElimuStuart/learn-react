@@ -13,7 +13,7 @@
 
 const MyInfo = () => {
     return (
-        <div>
+        <div style={{backgroundColor: 'tomato'}}>
             <p>My name is Stuart Elimu</p>
             <p>I like soccer + music, I'd like to have my vaccations in the following cities:</p>
             <ul>
